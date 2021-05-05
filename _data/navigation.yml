@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Algorithm"
-    url: https://fastz123.github.io/Algorithm/
+    url: /Algorithm/
   - title: "Project"
-    url: https://fastz123.github.io/Project/
+    url: /Project/
   - title: "Study"
-    url: https://fastz123.github.io/Study/
+    url: /Study/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
