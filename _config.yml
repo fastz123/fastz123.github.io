@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" #"default" # "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "MHB"
+title                    : "Find Path for Tommorow"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "MinHo Kim"
@@ -97,26 +97,26 @@ analytics:
 author:
   name             : "MH Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Find new Challenge for tommorow"
+  bio              : "Find Path for tommorow"
   location         : "Seoul"
   email            : "fastz123@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-        - label: "Website"
+    - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-        - label: "Twitter"
+    - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-        - label: "Facebook"
+    - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-        - label: "GitHub"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/fastz123"
-            - label: "Instagram"
+    - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
@@ -126,19 +126,19 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
-        - label: "Facebook"
+    - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
-        - label: "GitHub"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
-        - label: "GitLab"
+    - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
-        - label: "Bitbucket"
+    - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
-        - label: "Instagram"
+    - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
 
